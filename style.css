@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "cedarville-cursive";
+  src: url(main/font.ttf) format(ttf);
+  font-weight: normal; /* Define font weight if applicable */
+  font-style: normal; /* Define font style if applicable */
+    }
 body {
   background: white;
 }
